@@ -9,11 +9,12 @@ um destino para ser cadastrado no sistema nao precisa de uma compra, independe d
 
 uma compra necessita de um destino, e so pode ser um destino nela.</p>
 
+<h1>Modelo Conceitual</h1>
 ![Captura de Tela (396)](https://github.com/Trinity-10/SegundaEntrega/assets/124522603/016eab6f-4b29-4cbb-b3d7-08464b3c6d66)
 
 <hr>
 
-
+<h1>Modelo lógico</h1>
 ![Captura de Tela (397)](https://github.com/Trinity-10/SegundaEntrega/assets/124522603/ce664834-3613-43b1-96cd-1dfffccf641a)
 
 <h1>Modelo UML</h1>
