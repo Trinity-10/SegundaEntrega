@@ -18,3 +18,7 @@ uma compra necessita de um destino, e so pode ser um destino nela.</p>
 
 
 ![Captura de Tela (399)](https://github.com/Trinity-10/SegundaEntrega/assets/124522603/0c215175-c167-4178-8d49-82fa44cdb6bc)
+
+
+
+![Captura de Tela (400)](https://github.com/Trinity-10/SegundaEntrega/assets/124522603/4dff3a49-844a-44b4-8b7f-afb4be82f0b3)
